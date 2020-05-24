@@ -1,0 +1,6 @@
+    Codice                    Descrizione              Quantita'     Minimo riordino
+ 2345640923                         Patate_fritte         11                5      
+    4354365                       Prezzemolo_Verd          5                4      
+   12345678                                Carote         11                1      
+    3456666                            Prezzemolo         22                2      
+   12597400                             Gelsomino         22                3      
