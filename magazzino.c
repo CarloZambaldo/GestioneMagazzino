@@ -210,7 +210,7 @@ void visualizza_tutto(art_t** head){
     art_t *aux = *head;
     printf("   Codice    \t   Quantita'  \t   Minimo riordino  \t  Descrizione\n");
     while(aux != NULL){
-        printf(" %10lu         %3u     \t   %3u %30s\n", aux->codice_articolo, aux->qty_giacenza, aux->qty_riordino, aux->descrizione); 
+        printf("  %-10lu         %3u     \t       %3u                %-30s\n", aux->codice_articolo, aux->qty_giacenza, aux->qty_riordino, aux->descrizione); 
         aux = aux->next;
     }
     printf("\n\n");
